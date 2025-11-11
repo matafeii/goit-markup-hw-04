@@ -523,6 +523,11 @@ position: absolute;
     color: var(--cloud-color);
 }
 
+.container {
+    display: flex;
+    align-items: baseline;
+}
+
 .footer-soc-text {
     margin-bottom: 16px;
     font-weight: 500;
