@@ -515,7 +515,6 @@ position: absolute;
 }
 
 .footer-text {
-    margin-bottom: 16px;
     max-width: 264px;
     font-weight: 500;
     line-height: 1.5;
@@ -566,9 +565,6 @@ position: absolute;
     width: 24px;
     height: 24px;
     fill: var(--cloud-color);
-}
-.footer-right>.footer-soc-text {
-    margin-bottom: 16px;
 }
 /* #endregion footer */
 /* #region-img */
