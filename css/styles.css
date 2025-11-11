@@ -516,6 +516,7 @@ position: absolute;
 
 .footer-text {
     max-width: 264px;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--cloud-color);
@@ -534,9 +535,9 @@ position: absolute;
     display: flex;
     gap: 16px;
     list-style: none;
-    margin: 0 ;
+    margin: 0;
     padding: 0;
-    align-items: baseline
+    align-items: baseline;
 }
 
 .footer-soc-list-item {
