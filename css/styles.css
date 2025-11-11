@@ -469,12 +469,7 @@ position: absolute;
 /* #endregion our portfolio */
 /* #region-footer */
 
-:root {
-    --cloud-color: #f4f4fd;
-    --primary-color: #4d5ae5;
-    --hover-color: #31d0aa;
-    --white-color: #ffffff;
-}
+
 
 .footer {
     background-color: #2e2f42;
@@ -506,12 +501,12 @@ position: absolute;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--primary-color);
+    color: #4d5ae5;
     text-decoration: none;
 }
 
 .footer .logo-span {
-    color: var(--cloud-color);
+    color: #f4f4fd;
 }
 
 .footer-text {
@@ -520,7 +515,7 @@ position: absolute;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--cloud-color);
+    color: #f4f4fd;
 }
 
 p.footer-text {
@@ -538,7 +533,7 @@ p.footer-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--white-color);
+    color: #FFFFFF;
 }
 p.footer-soc-text {
     margin-bottom: 16px;
@@ -561,7 +556,7 @@ p.footer-soc-text {
 .footer-soc-link {
     width: 100%;
     height: 100%;
-    background-color: var(--primary-color);
+    background-color: #4d5ae5;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -571,13 +566,13 @@ p.footer-soc-text {
 
 .footer-soc-link:hover,
 .footer-soc-link:focus {
-    background-color: var(--hover-color);
+    background-color: #31d0aa;
 }
 
 .svg-icon {
     width: 24px;
     height: 24px;
-    fill: var(--cloud-color);
+    fill: #f4f4fd;
 }
 /* #endregion footer */
 /* #region-img */
