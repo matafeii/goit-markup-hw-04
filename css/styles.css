@@ -526,6 +526,10 @@ p.footer-text {
     display: flex;
     align-items: baseline;
 }
+ 
+p.footer-soc-text {
+    margin-bottom: 16px;
+}
 
 .footer-soc-text {
     margin-bottom: 16px;
@@ -535,9 +539,7 @@ p.footer-text {
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-p.footer-soc-text {
-    margin-bottom: 16px;
-}   
+  
 
 .footer-soc-list {
     display: flex;
