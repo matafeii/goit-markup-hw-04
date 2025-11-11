@@ -523,7 +523,7 @@ position: absolute;
     color: var(--cloud-color);
 }
 
-.container {
+.footer-container {
     display: flex;
     align-items: baseline;
 }
