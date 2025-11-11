@@ -504,7 +504,6 @@ position: absolute;
 .footer-container {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .footer-social-title{
