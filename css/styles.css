@@ -518,17 +518,11 @@ position: absolute;
     color: #f4f4fd;
 }
 
-p.footer-text {
-    margin-bottom: 16px;
-}
+
 
 .footer-container {
     display: flex;
     align-items: baseline;
-}
- 
-p.footer-soc-text {
-    margin-bottom: 16px;
 }
 
 .footer-soc-text {
@@ -545,8 +539,7 @@ p.footer-soc-text {
     display: flex;
     gap: 16px;
     list-style: none;
-    margin: 0;
-    padding: 0;
+    margin: 0 auto;
     align-items: baseline;
 }
 
