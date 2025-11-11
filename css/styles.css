@@ -567,6 +567,9 @@ position: absolute;
     height: 24px;
     fill: var(--cloud-color);
 }
+.footer-right>.footer-soc-text {
+    margin-bottom: 16px;
+}
 /* #endregion footer */
 /* #region-img */
 img {
