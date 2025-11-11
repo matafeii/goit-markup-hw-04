@@ -486,7 +486,7 @@ position: absolute;
     align-items: baseline;
 }
 
-.footer-social {
+.footer-left {
     margin-right: 120px;
 }
 
@@ -512,10 +512,9 @@ position: absolute;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--cloud-color);
-    margin-bottom: 16px;
 }
 
-.footer-social-title {
+.footer-right .footer-social-title {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
