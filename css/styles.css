@@ -273,7 +273,17 @@ font-size: 16px;
 
 .feature-item {
     width: calc((100% - 72px) / 4);
-
+text-align: center ;
+}
+.feature-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
 }
 /* #endregion features */
 /* #region-ourteam */
