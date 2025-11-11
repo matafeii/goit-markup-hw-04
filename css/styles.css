@@ -187,8 +187,8 @@ border-radius: 2px;
 .hero-section {
     max-width: 1440px;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
-                rgba(46, 47, 66, 0.7)),
-            url(../images/people-office.jpg);
+        rgba(46, 47, 66, 0.7)),
+        url(../images/people-office.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -275,7 +275,7 @@ font-size: 16px;
     width: calc((100% - 72px) / 4);
 text-align: center ;
 }
-.feature-icon {
+.features-icon {
     display: flex;
     align-items: center;
     justify-content: center;
