@@ -471,12 +471,9 @@ position: absolute;
 .footer {
     background-color: #2e2f42;
     padding: 100px 0;
-    width: 1440px;
-    height: 312px;
-    margin: 0 auto;
 }
 
-.footer-container {
+.footer-container .container {
     display: flex;
     align-items: baseline;
 }
@@ -495,7 +492,6 @@ position: absolute;
 .footer .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
-    /* отступ под логотипом */
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -512,7 +508,6 @@ position: absolute;
 
 .footer .footer-text {
     margin-bottom: 16px;
-    /* GoIT проверяет именно так */
     max-width: 264px;
     font-weight: 500;
     line-height: 1.5;
