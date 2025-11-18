@@ -7,7 +7,7 @@ body {
     color: #434455;
     background-color: #ffffff;
 }
-
+/* #endregion body */
 /* #region-logo */
 .logo {
     font-family: "Raleway", sans-serif;
@@ -562,3 +562,4 @@ position: absolute;
 img {
     display: block;
 }
+/* #endregion img */
